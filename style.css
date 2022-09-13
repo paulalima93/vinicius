@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
+.textostyle {
+  color:azure;
+  text-align: center;
+  font-family: cursive;
+}
+
+.botaoComecar {
+  width: 100px;
+  height: 40px;
+  border-radius: 30px;
+  font-family: cursive;
+}
+
+.inputNome{
+  width: 200px;
+  height: 20px;
+}
+
+.nomePontuacao{
+  font-family: cursive;
+}
